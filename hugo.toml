@@ -1,0 +1,39 @@
+baseURL = 'https://roberthirwa.github.io/RobertPortfolio/'
+languageCode = 'en-us'
+title = 'Robert Hirwa Portfolio'
+
+[markup.goldmark.renderer]
+  unsafe = true
+  
+relativeURLs = true
+
+[params]
+  description = "Highly motivated and dedicated Computer Engineering student at the University of Rwanda."
+  author = "TUYISHIMIRE HIRWA Robert"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 30
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 40
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 50
