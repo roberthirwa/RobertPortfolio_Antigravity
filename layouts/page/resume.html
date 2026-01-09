@@ -1,0 +1,75 @@
+{{ define "main" }}
+<section id="resume" class="resume section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Params.description }}</p>
+    </div><!-- End Section Title -->
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row">
+            <div class="col-lg-6">
+
+                <!-- Education Section -->
+                <div class="resume-item" data-aos="fade-up">
+                    <h3 class="resume-title">Education</h3>
+
+                    <div class="resume-content">
+                        {{ range .Site.Data.resume.education }}
+                        <article class="education-item">
+                            <h4>{{ .title }}</h4>
+                            <h5>{{ .period }}</h5>
+                            <p class="institution"><em>{{ .institution }}</em></p>
+                            {{ if .description }}<p>{{ .description }}</p>{{ end }}
+                        </article>
+                        {{ end }}
+                    </div>
+                </div><!-- End Education Section -->
+
+                <!-- Professional Skills Section -->
+                <div class="resume-item skills-animation" data-aos="fade-up">
+                    <h3 class="resume-title">Professional Skills</h3>
+
+                    <div class="resume-content">
+                        {{ range .Site.Data.resume.skills }}
+                        <div class="skill-item">
+                            <h4>{{ .name }}</h4>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="{{ .percent }}"
+                                    aria-valuemin="0" aria-valuemax="100" style="width: {{ .percent }}%;"></div>
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div><!-- End Professional Skills Section -->
+            </div>
+
+            <div class="col-lg-6">
+                <!-- Experience Section -->
+                <div class="resume-item" data-aos="fade-up" data-aos-delay="100">
+                    <h3 class="resume-title">Professional Experience</h3>
+
+                    <div class="resume-content">
+                        {{ range .Site.Data.resume.experience }}
+                        <article class="experience-item">
+                            <h4>{{ .title }}</h4>
+                            <h5>{{ .period }}</h5>
+                            <p class="company"><em>{{ .company }}</em></p>
+                            <ul>
+                                {{ range .items }}
+                                <li>{{ . }}</li>
+                                {{ end }}
+                            </ul>
+                        </article>
+                        {{ end }}
+                    </div>
+                </div><!-- End Experience Section -->
+            </div>
+        </div>
+
+    </div>
+
+</section><!-- /Resume Section -->
+{{ end }}

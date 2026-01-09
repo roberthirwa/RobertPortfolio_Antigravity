@@ -1,0 +1,39 @@
+education:
+  - title: Computer Engineering
+    period: Present
+    institution: University of Rwanda (UR)
+    description: Currently pursuing a degree in Computer Engineering, building a strong foundation in computer science and networking.
+  - title: Advanced Level Certificate (MPC)
+    period: 2022 - 2025
+    institution: College Immaculee Conception / Save
+    description: Specialized in Mathematics, Physics, and Computer Science.
+  - title: Ordinary Level Certificate
+    period: 2019 - 2021
+    institution: E.S Mubuga
+    description: ""
+
+skills:
+  - name: Web Development (HTML/CSS)
+    percent: 95
+  - name: Python & C++
+    percent: 85
+  - name: Java & Visual Basic
+    percent: 80
+  - name: Computer Networking
+    percent: 75
+
+experience:
+  - title: Founder & Full Stack Developer
+    period: 2024 - Present
+    company: TeenzNation
+    items:
+      - Designed and developed the TeenzNation website, a platform for teenagers.
+      - Managed social media presence, achieving over 20,000 monthly visitors on Instagram and 19k+ on Pinterest.
+      - Implemented Google Ads and successfully monetized the platform.
+      - Expanded audience reach to the USA, China, and Singapore.
+  - title: Freelance Web Developer
+    period: 2025 - Present
+    company: "Remote"
+    items:
+      - Developing responsive websites for various clients.
+      - Utilizing skills in HTML, CSS, JavaScript, and PHP to create functional web solutions.
