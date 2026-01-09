@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Hirwa - Portfolio on Robert Hirwa Portfolio</title>
+    <link>http://localhost:1313/RobertPortfolio/</link>
+    <description>Recent content in Robert Hirwa - Portfolio on Robert Hirwa Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/RobertPortfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/RobertPortfolio/about/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RobertPortfolio/about/</guid>
+      <description>&lt;!-- About Section --&gt;&#xD;&#xA;&lt;section id=&#34;about&#34; class=&#34;about section&#34;&gt;&#xD;&#xA;&#xD;&#xA;  &lt;!-- Section Title --&gt;&#xD;&#xA;  &lt;div class=&#34;container section-title&#34; data-aos=&#34;fade-up&#34;&gt;&#xD;&#xA;    &lt;h2&gt;About&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;Learn more about my background, journey, and what drives me as a developer.&lt;/p&gt;&#xD;&#xA;  &lt;/div&gt;&lt;!-- End Section Title --&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;container&#34; data-aos=&#34;fade-up&#34; data-aos-delay=&#34;100&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Intro + Photo --&gt;&#xD;&#xA;    &lt;div class=&#34;row align-items-center justify-content-between gy-5 mb-5&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;col-lg-7&#34; data-aos=&#34;fade-right&#34; data-aos-delay=&#34;150&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;intro-content&#34;&gt;&#xD;&#xA;          &lt;span class=&#34;eyebrow&#34;&gt;Hello there&lt;/span&gt;&#xD;&#xA;          &lt;h2 class=&#34;headline&#34;&gt;Hi, I&#39;m Robert - a dedicated Computer Engineering student and Web Developer&lt;/h2&gt;&#xD;&#xA;          &lt;p class=&#34;lead&#34;&gt;&#xD;&#xA;            I am a passionate developer with a knack for building impactful digital solutions. My journey began with&#xD;&#xA;            a strong foundation in Mathematics, Physics, and Computer Science, leading me to pursue Computer&#xD;&#xA;            Engineering at the University of Rwanda.&#xD;&#xA;          &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/RobertPortfolio/contact/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RobertPortfolio/contact/</guid>
+      <description>&lt;!-- Contact Section --&gt;&#xD;&#xA;&lt;section id=&#34;contact&#34; class=&#34;contact section&#34;&gt;&#xD;&#xA;&#xD;&#xA;  &lt;!-- Section Title --&gt;&#xD;&#xA;  &lt;div class=&#34;container section-title&#34; data-aos=&#34;fade-up&#34;&gt;&#xD;&#xA;    &lt;h2&gt;Contact&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;Get in touch for collaborations, opportunities, or just to say hello.&lt;/p&gt;&#xD;&#xA;  &lt;/div&gt;&lt;!-- End Section Title --&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;container&#34; data-aos=&#34;fade-up&#34; data-aos-delay=&#34;100&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;div class=&#34;row g-4 g-lg-5&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;col-lg-5&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;info-box&#34; data-aos=&#34;fade-up&#34; data-aos-delay=&#34;200&#34;&gt;&#xD;&#xA;          &lt;h3&gt;Contact Info&lt;/h3&gt;&#xD;&#xA;          &lt;p&gt;Feel free to reach out via email or phone.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;          &lt;div class=&#34;info-item&#34; data-aos=&#34;fade-up&#34; data-aos-delay=&#34;300&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;icon-box&#34;&gt;&#xD;&#xA;              &lt;i class=&#34;bi bi-geo-alt&#34;&gt;&lt;/i&gt;&#xD;&#xA;            &lt;/div&gt;&#xD;&#xA;            &lt;div class=&#34;content&#34;&gt;&#xD;&#xA;              &lt;h4&gt;Our Location&lt;/h4&gt;&#xD;&#xA;              &lt;p&gt;Rwanda&lt;/p&gt;&#xD;&#xA;            &lt;/div&gt;&#xD;&#xA;          &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;          &lt;div class=&#34;info-item&#34; data-aos=&#34;fade-up&#34; data-aos-delay=&#34;400&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;icon-box&#34;&gt;&#xD;&#xA;              &lt;i class=&#34;bi bi-telephone&#34;&gt;&lt;/i&gt;&#xD;&#xA;            &lt;/div&gt;&#xD;&#xA;            &lt;div class=&#34;content&#34;&gt;&#xD;&#xA;              &lt;h4&gt;Phone Number&lt;/h4&gt;&#xD;&#xA;              &lt;p&gt;+250 788 951 159&lt;/p&gt;&#xD;&#xA;            &lt;/div&gt;&#xD;&#xA;          &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;          &lt;div class=&#34;info-item&#34; data-aos=&#34;fade-up&#34; data-aos-delay=&#34;500&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;icon-box&#34;&gt;&#xD;&#xA;              &lt;i class=&#34;bi bi-envelope&#34;&gt;&lt;/i&gt;&#xD;&#xA;            &lt;/div&gt;&#xD;&#xA;            &lt;div class=&#34;content&#34;&gt;&#xD;&#xA;              &lt;h4&gt;Email Address&lt;/h4&gt;&#xD;&#xA;              &lt;p&gt;roberthirw@gmail.com&lt;/p&gt;&#xD;&#xA;            &lt;/div&gt;&#xD;&#xA;          &lt;/div&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;      &lt;div class=&#34;col-lg-7&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;contact-form&#34; data-aos=&#34;fade-up&#34; data-aos-delay=&#34;300&#34;&gt;&#xD;&#xA;          &lt;h3&gt;Get In Touch&lt;/h3&gt;&#xD;&#xA;          &lt;p&gt;Send me a message and I&#39;ll get back to you as soon as possible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/RobertPortfolio/resume/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RobertPortfolio/resume/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TeenzNation</title>
+      <link>http://localhost:1313/RobertPortfolio/portfolio/teenznation/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RobertPortfolio/portfolio/teenznation/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

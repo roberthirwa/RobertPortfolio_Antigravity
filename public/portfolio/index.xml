@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Robert Hirwa Portfolio</title>
+    <link>http://localhost:1313/RobertPortfolio/portfolio/</link>
+    <description>Recent content in Portfolio on Robert Hirwa Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/RobertPortfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TeenzNation</title>
+      <link>http://localhost:1313/RobertPortfolio/portfolio/teenznation/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RobertPortfolio/portfolio/teenznation/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
